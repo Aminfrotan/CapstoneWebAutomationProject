@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.00249">
+<testcase classname="Admin Area Demo Login Page" name="Login into account" time="0.00249">
+<system-out><![CDATA[Given User is navigating to "https://admin-demo.nopcommerce.com/"...........passed
+When User is adding "Email" and "Password"..................................passed
+And User is clicking on "Login" button......................................passed
+Then User is logged into Admin Application..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
